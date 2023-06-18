@@ -1,5 +1,5 @@
-[![adudu21's GitHub stats](https://github-readme-stats.vercel.app/api?username=aduud21&theme=transparent)]()
 [![Top Langs i use on github](https://github-readme-stats.vercel.app/api/top-langs/?username=aduud21&theme=transparent)]()
+
 <a href="https://youtube.com/c/adudu21">
     <img src="https://media.discordapp.net/attachments/947823863344021604/1075378093113487360/com.google.android.youtube_18.06.35_1536024000_icon.png" alt="warning: ohio boss fight"/>
   </a>
