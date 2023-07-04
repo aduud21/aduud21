@@ -6,9 +6,6 @@
   <a href="https://www.roblox.com/users/684075566/profile">
     <img src="https://media.discordapp.net/attachments/947823863344021604/1075382927803818004/com.roblox.client_2.562.360_1414_icon.png" alt="roblos, you heard me right roblos"/>
   </a>
-  <a href="https://replit.com/@AGuyThatLikesFurrys">
-    <img src="https://media.discordapp.net/attachments/947823863344021604/1075382928269377577/com.replit.app_2.19.4_2190004_icon.png" alt="my replit account"/>
-  </a>
   <a href="https://patreon.com/adudu21">
     <img src="https://media.discordapp.net/attachments/947823863344021604/1075382928869179494/com.patreon.android_27.0.39_4398_icon.png" alt="money"/>
   </a>
