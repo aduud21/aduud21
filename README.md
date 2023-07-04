@@ -1,3 +1,6 @@
+# Hello there!
+## Some info:
+
 [![Top Langs i use on github](https://github-readme-stats.vercel.app/api/top-langs/?username=aduud21&theme=transparent)]()
 
 <a href="https://youtube.com/c/adudu21">
