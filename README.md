@@ -16,12 +16,6 @@
   </a>
 </div>
 
-- 😐 Gender: Male
-
-- 👽 Sexuality: Heterosexual (Straight)
-
-- 😄 Pronouns: Him/He
-
 - 🌈 I like progrmamming and alot more
 
 (Some usernames i have on other platforms were jokes but i could not change them so i am stuck with them forever)
